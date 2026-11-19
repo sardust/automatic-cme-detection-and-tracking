@@ -235,6 +235,6 @@ checkpoints/checkpoint.pth
 
 ## License
 
-This repository is released under the MIT License. See the `LICENSE` file for details.
+This repository is released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Some components are based on third-party open-source implementations. Please refer to the corresponding source files and retain their original notices where applicable.
