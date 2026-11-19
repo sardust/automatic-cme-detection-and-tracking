@@ -1,5 +1,7 @@
 # Automatic CME Detection and Geometric Analysis
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 This repository provides post-training inference and downstream analysis code for coronal mass ejection (CME) region extraction and geometric measurement from coronagraph images. The full MAE pretraining pipeline is not included.
 
 The workflow is organized into two stages:
